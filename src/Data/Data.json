@@ -1,0 +1,12 @@
+[
+  { "id": 1, "rating": 9, "text": "Great service!" },
+  { "id": 2, "rating": 5, "text": "Good but can be better." },
+  { "id": 3, "rating": 8, "text": "Very friendly staff and quick response." },
+  { "id": 4, "rating": 3, "text": "Average experience, needs improvement." },
+  { "id": 5, "rating": 7, "text": "Satisfied with the service." },
+  { "id": 6, "rating": 10, "text": "Exceptional! Highly recommend." },
+  { "id": 7, "rating": 2, "text": "Not happy with the support." },
+  { "id": 8, "rating": 6, "text": "Decent experience, but better for improvement." },
+  { "id": 9, "rating": 4, "text": "Response time was slow." },
+  { "id": 10, "rating": 1, "text": "Very poor service, not satisfied." }
+]
